@@ -11,9 +11,13 @@ export default function ProductsList() {
                         <Link href="/products/smartphone">
                             <a>スマートフォン</a>
                         </Link>
+                    </li>
+                    <li>
                         <Link href="/products/pc">
                             <a>パソコン</a>
                         </Link>
+                    </li>
+                    <li>
                         <Link href="/products/headphone">
                             <a>ヘッドホン</a>
                         </Link>
